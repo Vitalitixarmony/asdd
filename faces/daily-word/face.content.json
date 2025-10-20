@@ -1,0 +1,188 @@
+{
+  "words": {
+    "rows": [
+      {
+        "word": "Adventure",
+        "translation": "Пригода",
+        "exampleSentence": "Life is a great adventure.",
+        "exampleTranslation": "Життя — це велика пригода."
+      },
+      {
+        "word": "Beautiful",
+        "translation": "Красивий",
+        "exampleSentence": "She has a beautiful smile.",
+        "exampleTranslation": "У неї красива усмішка."
+      },
+      {
+        "word": "Challenge",
+        "translation": "Виклик",
+        "exampleSentence": "This is a new challenge for me.",
+        "exampleTranslation": "Це новий виклик для мене."
+      },
+      {
+        "word": "Dream",
+        "translation": "Мрія",
+        "exampleSentence": "Never give up on your dreams.",
+        "exampleTranslation": "Ніколи не відмовляйся від своїх мрій."
+      },
+      {
+        "word": "Energy",
+        "translation": "Енергія",
+        "exampleSentence": "I have a lot of energy today.",
+        "exampleTranslation": "У мене сьогодні багато енергії."
+      },
+      {
+        "word": "Freedom",
+        "translation": "Свобода",
+        "exampleSentence": "Freedom is very important to me.",
+        "exampleTranslation": "Свобода дуже важлива для мене."
+      },
+      {
+        "word": "Grateful",
+        "translation": "Вдячний",
+        "exampleSentence": "I am grateful for everything I have.",
+        "exampleTranslation": "Я вдячний за все, що маю."
+      },
+      {
+        "word": "Happiness",
+        "translation": "Щастя",
+        "exampleSentence": "Happiness is a choice.",
+        "exampleTranslation": "Щастя — це вибір."
+      },
+      {
+        "word": "Inspire",
+        "translation": "Надихати",
+        "exampleSentence": "You inspire me every day.",
+        "exampleTranslation": "Ти надихаєш мене щодня."
+      },
+      {
+        "word": "Journey",
+        "translation": "Подорож",
+        "exampleSentence": "Life is a beautiful journey.",
+        "exampleTranslation": "Життя — це прекрасна подорож."
+      },
+      {
+        "word": "Knowledge",
+        "translation": "Знання",
+        "exampleSentence": "Knowledge is power.",
+        "exampleTranslation": "Знання — це сила."
+      },
+      {
+        "word": "Love",
+        "translation": "Любов",
+        "exampleSentence": "Love makes the world go round.",
+        "exampleTranslation": "Любов рухає світом."
+      },
+      {
+        "word": "Motivation",
+        "translation": "Мотивація",
+        "exampleSentence": "I need motivation to start working.",
+        "exampleTranslation": "Мені потрібна мотивація, щоб почати працювати."
+      },
+      {
+        "word": "Nature",
+        "translation": "Природа",
+        "exampleSentence": "Nature is beautiful in spring.",
+        "exampleTranslation": "Природа прекрасна навесні."
+      },
+      {
+        "word": "Opportunity",
+        "translation": "Можливість",
+        "exampleSentence": "This is a great opportunity for you.",
+        "exampleTranslation": "Це чудова можливість для тебе."
+      },
+      {
+        "word": "Passion",
+        "translation": "Пристрасть",
+        "exampleSentence": "Follow your passion.",
+        "exampleTranslation": "Слідуй за своєю пристрастю."
+      },
+      {
+        "word": "Quality",
+        "translation": "Якість",
+        "exampleSentence": "Quality is more important than quantity.",
+        "exampleTranslation": "Якість важливіша за кількість."
+      },
+      {
+        "word": "Respect",
+        "translation": "Повага",
+        "exampleSentence": "Treat everyone with respect.",
+        "exampleTranslation": "Стався до всіх з повагою."
+      },
+      {
+        "word": "Success",
+        "translation": "Успіх",
+        "exampleSentence": "Hard work leads to success.",
+        "exampleTranslation": "Наполеглива праця призводить до успіху."
+      },
+      {
+        "word": "Trust",
+        "translation": "Довіра",
+        "exampleSentence": "Trust is the foundation of friendship.",
+        "exampleTranslation": "Довіра — основа дружби."
+      },
+      {
+        "word": "Unity",
+        "translation": "Єдність",
+        "exampleSentence": "Unity makes us stronger.",
+        "exampleTranslation": "Єдність робить нас сильнішими."
+      },
+      {
+        "word": "Victory",
+        "translation": "Перемога",
+        "exampleSentence": "Victory belongs to the most persevering.",
+        "exampleTranslation": "Перемога дістається найстійкішим."
+      },
+      {
+        "word": "Wisdom",
+        "translation": "Мудрість",
+        "exampleSentence": "Wisdom comes with experience.",
+        "exampleTranslation": "Мудрість приходить з досвідом."
+      },
+      {
+        "word": "Experience",
+        "translation": "Досвід",
+        "exampleSentence": "Experience is the best teacher.",
+        "exampleTranslation": "Досвід — найкращий вчитель."
+      },
+      {
+        "word": "Youth",
+        "translation": "Молодість",
+        "exampleSentence": "Youth is the time to explore.",
+        "exampleTranslation": "Молодість — час для досліджень."
+      },
+      {
+        "word": "Zeal",
+        "translation": "Завзятість",
+        "exampleSentence": "Work with zeal and dedication.",
+        "exampleTranslation": "Працюй із завзяттям та відданістю."
+      },
+      {
+        "word": "Achieve",
+        "translation": "Досягати",
+        "exampleSentence": "You can achieve anything you want.",
+        "exampleTranslation": "Ти можеш досягти будь-чого, чого хочеш."
+      },
+      {
+        "word": "Believe",
+        "translation": "Вірити",
+        "exampleSentence": "Believe in yourself.",
+        "exampleTranslation": "Вір у себе."
+      },
+      {
+        "word": "Create",
+        "translation": "Творити",
+        "exampleSentence": "Create something amazing today.",
+        "exampleTranslation": "Створи сьогодні щось неймовірне."
+      },
+      {
+        "word": "Destiny",
+        "translation": "Доля",
+        "exampleSentence": "You are the master of your own destiny.",
+        "exampleTranslation": "Ти сам господар своєї долі."
+      }
+    ]
+  },
+  "title": { "content": "Daily Word Learning" },
+  "subtitle": { "content": "Вчимо нові слова щодня" }
+}

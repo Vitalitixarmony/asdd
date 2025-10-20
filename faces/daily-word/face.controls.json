@@ -1,0 +1,11 @@
+{
+  "controls": {
+    "cardRadius": {
+      "type": "slider",
+      "min": 0,
+      "max": 32,
+      "step": 4,
+      "value": 16
+    }
+  }
+}
